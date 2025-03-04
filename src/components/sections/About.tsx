@@ -55,7 +55,7 @@ const About = () => {
         {config.sections.about.content}
       </motion.p>
 
-      <a href="/cv.pdf" download="Disha_Phattas_CV.pdf">
+      <a href="/reactapp/cv.pdf" download="Disha_Phattas_CV.pdf">
         <button className="mt-4 rounded-lg bg-[#915EFF] px-6 py-3 text-lg font-semibold text-white transition duration-300 hover:bg-[#7a4de0]">
           Download CV
         </button>
